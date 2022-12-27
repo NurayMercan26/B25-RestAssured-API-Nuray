@@ -15,7 +15,7 @@ public class SpartanGetRequests {
 //    Then status code must 200
 //    And response Content Type must be application/json
 //    And response body should include spartan result
-    String baseUrl = "http://54.175.31.71:8000";
+    String baseUrl = "http://.175.31.71:8000";
     @Test
     public void test1(){
 
